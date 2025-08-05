@@ -11,7 +11,7 @@ Identify phishing characteristics in a suspicious Office 365 phishing email samp
 - Email Header Analyzers:
   - [MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx)
   - [Google Admin Toolbox](https://toolbox.googleapps.com/apps/messageheader/)
-- [VirusTotal](https://virustotal.com)
+  - [VirusTotal](https://virustotal.com)
 
 ## 📄 Files Included
 - `Analyze a Phishing Email Sample.docx`: Final report with all 7 steps of phishing email analysis
